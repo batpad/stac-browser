@@ -24,8 +24,9 @@ module.exports = {
         "ro",
         "ja",
         "pt",
-//      "pt-BR"
-        "id"
+//      "pt-BR",
+        "id",
+        "pl"
     ],
     apiCatalogPriority: null,
     useTileLayerAsFallback: false,
